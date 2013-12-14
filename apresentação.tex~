@@ -1,0 +1,27 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage{default}
+%  Texto Justificado
+%\justifying
+%  Tema Frankfurt
+\usetheme{Frankfurt}
+%  Slides Negros (Pensar melhor nessa opção, pois pode dificultar a leitura)
+%\usecolortheme{structure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Informações gerais da apresentação
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title[TCC]{Implantação e Análise de serviço Web Proxy Cache em Infraestruturas de Computação na Nuvem}
+\author{Luís Eduardo Tenório Silva\\\textit{lets@cin.ufpe.br}}
+\date[18/12/13]{18 de Dezembro de 2013}
+\logo{
+    \includegraphics[height=1cm,keepaspectratio]{imagens/ufal.jpg}
+    \includegraphics[height=1cm,keepaspectratio]{imagens/comp.png}    
+}
+
+\begin{document}
+    % Título do trabalho
+    \frame{\titlepage}
+    \frame{\tableofcontents}
+
+\end{document}
