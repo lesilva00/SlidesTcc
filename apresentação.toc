@@ -1,3 +1,7 @@
 \beamer@endinputifotherversion {3.10pt}
 \beamer@sectionintoc {1}{Computa\IeC {\c c}\IeC {\~a}o em nuvem}{3}{0}{1}
 \beamer@sectionintoc {2}{Motiva\IeC {\c c}\IeC {\~a}o (Computa\IeC {\c c}\IeC {\~a}o em nuvem)}{5}{0}{2}
+\beamer@sectionintoc {3}{Web Proxy Cache}{9}{0}{3}
+\beamer@sectionintoc {4}{Motiva\IeC {\c c}\IeC {\~a}o (Web Proxy Cache)}{10}{0}{4}
+\beamer@sectionintoc {5}{Computa\IeC {\c c}\IeC {\~a}o em nuvem + Web Proxy Cache}{14}{0}{5}
+\beamer@sectionintoc {6}{Problem\IeC {\'a}tica}{15}{0}{6}

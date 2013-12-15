@@ -23,12 +23,12 @@
 }
 
 % Estruturação:
-%    Definição de computação em nuvem
-%    Motivação (Computação em nuvem): porque utilizar computação em nuvem.
-%    Definição de proxy cache
-%    Motivação (proxy cache): porque utilizar proxy cache.
-%    Computação em nuvem + proxy cache (Trabalhos realizados) OBS: Pesquisar no IEEE para definir a data onde apareceu a junção dos conceitos.
-%    Problemática:
+%    1- Definição de computação em nuvem
+%    2- Motivação (Computação em nuvem): porque utilizar computação em nuvem.
+%    3- Definição de proxy cache
+%    4- Motivação (proxy cache): porque utilizar proxy cache.
+%    5- Computação em nuvem + proxy cache (Trabalhos realizados) OBS: Pesquisar no IEEE para definir a data onde apareceu a junção dos conceitos.
+%    6- Problemática:
 %    Como realiar essa junção? Apresentar em números...OBS: Apresentar agora os problemas das diversas configurações
 %    Como deve ser configurado para apresentar melhores resultados? DEPENDE DA MÉTRICA A SER OBSERVADA
 %    Proxy cache:
@@ -48,11 +48,11 @@
 
 % 
 \begin{document}
-    % Título do trabalho
+%   Título do trabalho
     \frame{\titlepage}
 
     \frame{\tableofcontents}
-
+%   1- Definição de computação em nuvem
     \section{Computação em nuvem}
     \setbeamercovered{transparent}
     \begin{frame}
@@ -60,16 +60,14 @@
       \begin{block}{Definição abrangente}<1-| alert@1>
       \textit{Hardwares de grande escala distribuídos geograficamente e infra-estrutura de software composto de recursos heterogêneos de rede compartilhado por várias organizações administrativas que são coordenados para fornecer transparência, confiabilidade, abrangência e suporte computacional persistente para uma grande variedade de aplicações.} (Miguel et
 al , 2004)
-    \end{block}
-    
+    \end{block}    
     \begin{block}{Definição menos abrangente}<2- | alert@2>
       \textit{Forma de computação distribuída em que um "super computador virtual", composto de um conjunto de computadores de baixo
 acoplamento interligados em rede, agindo em conjunto para realizar grandes tarefas.} (Buyya et al. 2009)
-     \end{block}
-       
+     \end{block}       
     \end{frame}
     \setbeamercovered{invisible}
-
+%   2- Motivação (Computação em nuvem)
     \section{Motivação (Computação em nuvem)}
     \begin{frame}
       \frametitle{Motivação}
@@ -80,7 +78,42 @@ acoplamento interligados em rede, agindo em conjunto para realizar grandes taref
        \item <4->Controle maior do serviço (Elasticidade, pool de recursos...)
       \end{itemize}
     \end{frame}
-
-
+%   3- Definição Proxy Cache
+    \section{Web Proxy Cache}
+    \begin{frame}
+      \frametitle{Web Proxy Cache}
+      \begin{block}{Definição}
+	\textit{O cacheamento de páginas web e arquivos disponíveis em servidores web remotos, permitindo o acesso mais rápido e
+confiável de clientes da rede local.} (Elvis Pontes 2010)
+      \end{block}
+    \end{frame}
+%   4- Motivação (Proxy cache)
+    \section{Motivação (Web Proxy Cache)}
+    \begin{frame}
+      \frametitle{Motivação}
+      Por que utilizar Web Proxy Cache?
+      \begin{itemize}
+       \item <2-> Acesso rápido e seguro
+       \item <3-> Controle de acesso a conteúdo
+       \item <4-> Economia de recursos (Largura de banda, processamento de pacotes)
+      \end{itemize}
+    \end{frame}
+%   5- Computação em nuvem + proxy cache (Trabalhos realizados)
+    \section{Computação em nuvem + Web Proxy Cache}
+    \begin{frame}
+     \frametitle{Computação em nuvem + Web Proxy Cache}
+     Primeiro trabalho a relacionar computação em nuvem e web proxy cache
+    \end{frame}
+%   6- Problemática
+%    Como realiar essa junção? Apresentar em números...OBS: Apresentar agora os problemas das diversas configurações
+%    Como deve ser configurado para apresentar melhores resultados? DEPENDE DA MÉTRICA A SER OBSERVADA
+    \section{Problemática}
+    \begin{frame}
+     \frametitle{Problemática}
+     \begin{itemize}
+       \item Como juntar os conceitos de computação em nuvem com web proxy cache?
+       \item Qual deve ser a configuração do serviço para que apresente o melhor resultado possível?
+      \end{itemize}
+    \end{frame}
 
 \end{document}
