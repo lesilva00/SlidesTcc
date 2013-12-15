@@ -31,11 +31,11 @@
 %    6- Problemática:
 %    Como realiar essa junção? Apresentar em números...OBS: Apresentar agora os problemas das diversas configurações
 %    Como deve ser configurado para apresentar melhores resultados? DEPENDE DA MÉTRICA A SER OBSERVADA
-%    Proxy cache:
+%    7- Proxy cache:
 %    - Tipos
 %    - Arquiteturas
 %    - Protocolos Inter cache
-%    - 
+%    - Cache hit e cache miss
 %    Cloud Computing:
 %    - Características
 %    - Categorias
@@ -115,7 +115,33 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
        \item Qual deve ser a configuração do serviço para que apresente o melhor resultado possível?
       \end{itemize}
     \end{frame}
+%    7- Proxy cache:
+%    - Tipos
+%    - Arquiteturas
+%    - Protocolos Inter cache
+%    - Cache hit e cache miss
+    \section{Proxy Cache}
+    \subsection{Cache hit e Cache miss}
+    \begin{frame}
+      \frametitle{Cache hit e Cache miss}
+      Cache Hit: Quando o objeto solicitado for encontrado no cache.
+      Cache Miss: Quando o objeto não é encontrado no cache.
+    \end{frame}
 
+   \subsection{Arquiteturas}
+    \begin{frame}
+      \frametitle{Arquiteturas}
+      Árvore: Hierarquia Pai/Filho/Irmãos.
+      Malha: Abolição de hierarquias.
+    \end{frame}
+
+    \subsection{Protocolos Inter-cache}
+      Responsáveis pela comunicação entre diversos caches.
+      \begin{itemize}
+       \item 
+       \item <3->Economia de recursos
+       \item <4->Controle maior do serviço (Elasticidade, pool de recursos...)
+      \end{itemize}
 
 
 \end{document}

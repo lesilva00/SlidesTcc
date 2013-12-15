@@ -31,11 +31,11 @@
 %    6- Problemática:
 %    Como realiar essa junção? Apresentar em números...OBS: Apresentar agora os problemas das diversas configurações
 %    Como deve ser configurado para apresentar melhores resultados? DEPENDE DA MÉTRICA A SER OBSERVADA
-%    Proxy cache:
+%    7- Proxy cache:
 %    - Tipos
 %    - Arquiteturas
 %    - Protocolos Inter cache
-%    - 
+%    - Cache hit e cache miss
 %    Cloud Computing:
 %    - Características
 %    - Categorias
@@ -115,9 +115,61 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
        \item Qual deve ser a configuração do serviço para que apresente o melhor resultado possível?
       \end{itemize}
     \end{frame}
+%    7- Proxy cache:
+%    - Tipos
+%    - Arquiteturas
+%    - Protocolos Inter cache
+%    - Cache hit e cache miss
+    \section{Proxy Cache}
+    \subsection{Cache hit e Cache miss}
+    \begin{frame}
+      \frametitle{Cache hit e Cache miss}
+      Cache Hit: Quando o objeto solicitado for encontrado no cache.
+      Cache Miss: Quando o objeto não é encontrado no cache.
+    \end{frame}
 
-    \
+   \subsection{Arquiteturas}
+    \begin{frame}
+      \frametitle{Arquiteturas}
+      Árvore: Hierarquia Pai/Filho/Irmãos.
+      Malha: Abolição de hierarquias.
+    \end{frame}
 
+    \subsection{Protocolos Inter-cache}
+    \begin{frame}
+      \frametitle{Protocolos Inter-cache}
+      Responsáveis pela comunicação entre diversos caches.
+      \begin{itemize}
+       \item ICP: Leve
+       \item CARP: Balanceamento de carga
+       \item HTCP: Taxa de acerto
+       \item Digest: Resumo de cache
+      \end{itemize} 
+    \end{frame} 
 
+%    Cloud Computing:
+%    - Características
+%    - Categorias
+%    - Virtualização
+    \section{Computação em nuvem}
+    \subsection{Características}
+    \begin{frame}
+      \frametitle{Características}
+      \begin{itemize}
+       \item Serviço sob demanda
+       \item Amplo acesso
+       \item Agrupamento (Pooling de serviços)
+      \end{itemize}
+    \end{frame}
+
+    \subsection{Categorias}
+    \begin{frame}
+      \frametitle{Categorias}
+      \begin{itemize}
+       \item SaaS
+       \item PaaS
+       \item \textbf{IaaS}
+      \end{itemize}
+    \end{frame}
 
 \end{document}

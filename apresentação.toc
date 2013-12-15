@@ -5,3 +5,10 @@
 \beamer@sectionintoc {4}{Motiva\IeC {\c c}\IeC {\~a}o (Web Proxy Cache)}{10}{0}{4}
 \beamer@sectionintoc {5}{Computa\IeC {\c c}\IeC {\~a}o em nuvem + Web Proxy Cache}{14}{0}{5}
 \beamer@sectionintoc {6}{Problem\IeC {\'a}tica}{15}{0}{6}
+\beamer@sectionintoc {7}{Proxy Cache}{16}{0}{7}
+\beamer@subsectionintoc {7}{1}{Cache hit e Cache miss}{16}{0}{7}
+\beamer@subsectionintoc {7}{2}{Arquiteturas}{17}{0}{7}
+\beamer@subsectionintoc {7}{3}{Protocolos Inter-cache}{18}{0}{7}
+\beamer@sectionintoc {8}{Computa\IeC {\c c}\IeC {\~a}o em nuvem}{19}{0}{8}
+\beamer@subsectionintoc {8}{1}{Caracter\IeC {\'\i }sticas}{19}{0}{8}
+\beamer@subsectionintoc {8}{2}{Categorias}{20}{0}{8}
