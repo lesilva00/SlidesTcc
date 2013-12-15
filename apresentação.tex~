@@ -2,12 +2,15 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage{default}
-%  Texto Justificado
-%\justifying
+% Texto Justificado
+\usepackage{ragged2e}
+\justifying
 %  Tema Frankfurt
 \usetheme{Frankfurt}
-%  Slides Negros (Pensar melhor nessa opção, pois pode dificultar a leitura)
+
+% Slides Negros (Pensar melhor nessa opção, pois pode dificultar a leitura)
 %\usecolortheme{structure}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Informações gerais da apresentação
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -19,9 +22,48 @@
     \includegraphics[height=1cm,keepaspectratio]{imagens/comp.png}    
 }
 
+% Estruturação:
+%    Definição de computação em nuvem
+%    Motivação (Computação em nuvem): porque utilizar computação em nuvem.
+%    Definição de proxy cache
+%    Motivação (proxy cache): porque utilizar proxy cache.
+%    Computação em nuvem + proxy cache (Trabalhos realizados) OBS: Pesquisar no IEEE para definir a data onde apareceu a junção dos conceitos.
+%    Problemática:
+%    Como realiar essa junção? Apresentar em números...OBS: Apresentar agora os problemas das diversas configurações
+%    Como deve ser configurado para apresentar melhores resultados? DEPENDE DA MÉTRICA A SER OBSERVADA
+%    Proxy cache:
+%    - Tipos
+%    - Arquiteturas
+%    - Protocolos Inter cache
+%
+%    Cloud Computing:
+%    - Características
+%    - Categorias
+%    - Virtualização
+%    Arquiteturas OBS: Descrever cloud+proxy e começar a falar como será realizado a simulação do tráfego
+%    Cenários
+%    Resultados
+%    Considerações finais
+%    Justificativa: O porquê escolher cloud + serviço proxy. (Indagar o aumento de serviços na nuvem, E o uso de proxy cache)
+
+% 
 \begin{document}
     % Título do trabalho
     \frame{\titlepage}
     \frame{\tableofcontents}
+
+    \section{Motivação (Computação em nuvem)}
+    \begin{frame}
+      \frametitle{Motivação}
+      Porquê utilizar computação em nuvem?
+      \begin{itemize}
+       \item <1->Diversos serviços migrando para a internet (Email, Editores de texto, Ambientes de desenvolvimento etc).
+       \item <2->Economia de recursos
+       \item <3->Controle maior do serviço
+      \end{itemize}
+
+    \end{frame}
+
+
 
 \end{document}
