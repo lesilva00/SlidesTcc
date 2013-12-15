@@ -100,6 +100,12 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
     \begin{frame}
      \frametitle{Computação em nuvem + Web Proxy Cache}
      Primeiro trabalho a relacionar computação em nuvem e web proxy cache
+     \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/pesquisa2.jpg}
+      \caption{IEEE Explorer}
+     \end{figure}
+
     \end{frame}
 %   6- Problemática
 %    Como realiar essa junção? Apresentar em números...OBS: Apresentar agora os problemas das diversas configurações
@@ -128,7 +134,7 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
    \subsection{Arquiteturas}
     \begin{frame}
       \frametitle{Arquiteturas}
-      Árvore: Hierarquia Pai/Filho/Irmãos.
+      Árvore: Hierarquia Pai/Filho/Irmãos.\\
       Malha: Abolição de hierarquias.
     \end{frame}
 
@@ -186,25 +192,89 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
     \end{frame}
 
 %    Arquiteturas OBS: Descrever cloud+proxy e começar a falar como será realizado a simulação do tráfego
-    \subsection{Arquiteturas}
+    \section{Arquitetura}
     \begin{frame}
-     \frametitle{Arquiteturas}
+     \frametitle{Arquitetura}
+     \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/arquiteturanuvem.png}
+      \caption{Arquitetura da nuvem}
+     \end{figure}
     \end{frame}
 
-%    Cenários
-    \subsection{Cenários}
     \begin{frame}
-     \frametitle{Cenários}
+     \frametitle{Problemática}     
+     Qual deve ser a configuração do serviço para que apresente o melhor resultado possível?\\
+     \textcolor{green}{Depende das métricas que estão sendo observadas}
+    \begin{itemize}
+     \item \textbf{Taxa de acerto:} ${Cache Hit\over(Cache Hit + Cache Miss)}$
+     \item Largura de banda: Banda passante economizada
+    \end{itemize}
+    \end{frame}
+
+    \begin{frame}
+      \frametitle{Resposta}
+      \huge{Uso de simulação de tráfego de alta recorrência.(Tráfego mais próximo de um ambiente real)}
+    \end{frame}
+
+    \section{Simulação}
+    \begin{frame}
+     \frametitle{Simulação}
+      Uso do WebPolygraph para simulação de tráfego.
+      \begin{itemize}
+       \item Uso de 75\% de recorrência (Alta recorrência).
+       \item Uso de distribuição de probabilidade para simulação do tráfego e tamanho dos objetos (Pareto e Zipf).       
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}
+     \begin{figure}
+      \centering
+      \includegraphics[scale=0.2]{imagens/simulador.jpg}
+      \caption{Arquitetura na nuvem com simulador}
+     \end{figure}
     \end{frame}
 
 %    Resultados
-    \subsection{Resultados}
+    \section{Resultados}
+    \begin{frame}
+     \frametitle{Resultados}     
+    \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/meshhierarquico.png}
+      \caption{Resultado Mesh x Hierarquco}
+    \end{figure}
+    \end{frame}
+
+    \begin{frame}
+     \frametitle{Resultados}     
+     \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/protocolos.png}
+      \caption{Resultado ICP x Digest x Carp}
+      \end{figure}
+    \end{frame}
+
     \begin{frame}
      \frametitle{Resultados}
+      \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/grafico_openvz.png}
+      \caption{Resultado OpenVZ}
+      \end{figure}
+    \end{frame}
+
+    \begin{frame}
+     \frametitle{Resultados}
+      \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/kvm.png}
+      \caption{Resultado OpenVZ}
+      \end{figure}
     \end{frame}
 
 %    Considerações finais
-    \subsection{Considerações Finais}
+    \section{Considerações Finais}
     \begin{frame}
      \frametitle{Considerações Finais}
     \end{frame}

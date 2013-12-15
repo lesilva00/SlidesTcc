@@ -1,5 +1,4 @@
 \documentclass{beamer}
-
 \usepackage[utf8]{inputenc}
 \usepackage{default}
 % Texto Justificado
@@ -44,8 +43,6 @@
 %    Cenários
 %    Resultados
 %    Considerações finais
-%    Justificativa: O porquê escolher cloud + serviço proxy. (Indagar o aumento de serviços na nuvem, E o uso de proxy cache)
-
 % 
 \begin{document}
 %   Título do trabalho
@@ -103,6 +100,12 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
     \begin{frame}
      \frametitle{Computação em nuvem + Web Proxy Cache}
      Primeiro trabalho a relacionar computação em nuvem e web proxy cache
+     \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/pesquisa2.jpg}
+      \caption{IEEE Explorer}
+     \end{figure}
+
     \end{frame}
 %   6- Problemática
 %    Como realiar essa junção? Apresentar em números...OBS: Apresentar agora os problemas das diversas configurações
@@ -131,7 +134,7 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
    \subsection{Arquiteturas}
     \begin{frame}
       \frametitle{Arquiteturas}
-      Árvore: Hierarquia Pai/Filho/Irmãos.
+      Árvore: Hierarquia Pai/Filho/Irmãos.\\
       Malha: Abolição de hierarquias.
     \end{frame}
 
@@ -175,10 +178,74 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
     \subsection{Virtualização}
     \begin{frame}
      \frametitle{Virtualização}
-     Virtualização consiste na emulação de ambientes completos (Singh 2004), podendo ser constituídos por sistema operacional, rede, software, armazenamento, entre outros.
+     Virtualização consiste na emulação de ambientes completos (Singh 2004), podendo ser constituídos por sistema operacional, rede, software, armazenamento, entre outros.\\
+     Ambientes emulados são também chamados de \textbf{máquinas virtuais}.
     \end{frame}
 
-    \begin{}
+    \begin{frame}
+     \frametitle{Tipos}
+     \begin{itemize}
+      \item Virtualização total: O hypervisor emula todo hardware que será utilizada pelas máquinas virtuais.
+      \item Para-virtualização: O kernel do sistema operacional das máquinas virtuais é alterado.
+      \item Virtualização a nível de sistema operacional: O kernel do sistema operacional da máquina virtual e física são alterados.
+     \end{itemize}
+    \end{frame}
 
+%    Arquiteturas OBS: Descrever cloud+proxy e começar a falar como será realizado a simulação do tráfego
+    \section{Arquitetura}
+    \begin{frame}
+     \frametitle{Arquitetura}
+     \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/arquiteturanuvem.png}
+      \caption{Arquitetura da nuvem}
+     \end{figure}
+
+    \end{frame}
+
+
+%    Resultados
+    \section{Resultados}
+    \begin{frame}
+     \frametitle{Resultados}     
+    \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/meshhierarquico.png}
+      \caption{Resultado Mesh x Hierarquco}
+    \end{figure}
+    \end{frame}
+
+    \begin{frame}
+     \frametitle{Resultados}     
+     \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/protocolos.png}
+      \caption{Resultado ICP x Digest x Carp}
+      \end{figure}
+    \end{frame}
+
+    \begin{frame}
+     \frametitle{Resultados}
+      \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/grafico_openvz.png}
+      \caption{Resultado OpenVZ}
+      \end{figure}
+    \end{frame}
+
+    \begin{frame}
+     \frametitle{Resultados}
+      \begin{figure}
+      \centering
+      \includegraphics[scale=0.4]{imagens/kvm.png}
+      \caption{Resultado OpenVZ}
+      \end{figure}
+    \end{frame}
+
+%    Considerações finais
+    \section{Considerações Finais}
+    \begin{frame}
+     \frametitle{Considerações Finais}
+    \end{frame}
 
 \end{document}
