@@ -13,3 +13,7 @@
 \beamer@subsectionintoc {8}{1}{Caracter\IeC {\'\i }sticas}{19}{0}{8}
 \beamer@subsectionintoc {8}{2}{Categorias}{20}{0}{8}
 \beamer@subsectionintoc {8}{3}{Virtualiza\IeC {\c c}\IeC {\~a}o}{21}{0}{8}
+\beamer@subsectionintoc {8}{4}{Arquiteturas}{23}{0}{8}
+\beamer@subsectionintoc {8}{5}{Cen\IeC {\'a}rios}{24}{0}{8}
+\beamer@subsectionintoc {8}{6}{Resultados}{25}{0}{8}
+\beamer@subsectionintoc {8}{7}{Considera\IeC {\c c}\IeC {\~o}es Finais}{26}{0}{8}
