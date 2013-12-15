@@ -12,3 +12,4 @@
 \beamer@sectionintoc {8}{Computa\IeC {\c c}\IeC {\~a}o em nuvem}{19}{0}{8}
 \beamer@subsectionintoc {8}{1}{Caracter\IeC {\'\i }sticas}{19}{0}{8}
 \beamer@subsectionintoc {8}{2}{Categorias}{20}{0}{8}
+\beamer@subsectionintoc {8}{3}{Virtualiza\IeC {\c c}\IeC {\~a}o}{21}{0}{8}

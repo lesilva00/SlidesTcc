@@ -136,12 +136,49 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
     \end{frame}
 
     \subsection{Protocolos Inter-cache}
+    \begin{frame}
+      \frametitle{Protocolos Inter-cache}
       Responsáveis pela comunicação entre diversos caches.
       \begin{itemize}
-       \item 
-       \item <3->Economia de recursos
-       \item <4->Controle maior do serviço (Elasticidade, pool de recursos...)
+       \item ICP: Leve
+       \item CARP: Balanceamento de carga
+       \item HTCP: Taxa de acerto
+       \item Digest: Resumo de cache
+      \end{itemize} 
+    \end{frame} 
+
+%    Cloud Computing:
+%    - Características
+%    - Categorias
+%    - Virtualização
+    \section{Computação em nuvem}
+    \subsection{Características}
+    \begin{frame}
+      \frametitle{Características}
+      \begin{itemize}
+       \item Serviço sob demanda
+       \item Amplo acesso
+       \item Agrupamento (Pooling de serviços)
       \end{itemize}
+    \end{frame}
+
+    \subsection{Categorias}
+    \begin{frame}
+      \frametitle{Categorias}
+      \begin{itemize}
+       \item SaaS
+       \item PaaS
+       \item \textbf{IaaS}
+      \end{itemize}
+    \end{frame}
+
+    \subsection{Virtualização}
+    \begin{frame}
+     \frametitle{Virtualização}
+     Virtualização consiste na emulação de ambientes completos (Singh 2004), podendo ser constituídos por sistema operacional, rede, software, armazenamento, entre outros.
+    \end{frame}
+
+    \begin{}
 
 
 \end{document}

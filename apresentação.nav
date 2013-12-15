@@ -54,8 +54,13 @@
 \headcommand {\beamer@subsectionentry {0}{8}{2}{20}{Categorias}}\headcommand {\beamer@subsectionpages {19}{19}}
 \headcommand {\slideentry {8}{2}{1}{20/20}{Categorias}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\beamer@partpages {1}{20}}
-\headcommand {\beamer@subsectionpages {20}{20}}
-\headcommand {\beamer@sectionpages {19}{20}}
-\headcommand {\beamer@documentpages {20}}
-\headcommand {\def \inserttotalframenumber {13}}
+\headcommand {\beamer@subsectionentry {0}{8}{3}{21}{Virtualiza\IeC {\c c}\IeC {\~a}o}}\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\slideentry {8}{3}{1}{21/21}{Virtualiza\IeC {\c c}\IeC {\~a}o}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {8}{3}{2}{22/22}{Virtualiza\IeC {\c c}\IeC {\~a}o}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@partpages {1}{22}}
+\headcommand {\beamer@subsectionpages {21}{22}}
+\headcommand {\beamer@sectionpages {19}{22}}
+\headcommand {\beamer@documentpages {22}}
+\headcommand {\def \inserttotalframenumber {15}}
