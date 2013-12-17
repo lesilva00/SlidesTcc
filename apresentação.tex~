@@ -54,11 +54,11 @@
     \setbeamercovered{transparent}
     \begin{frame}
       \frametitle{Computação em nuvem}
-      \begin{block}{Definição abrangente}<1-| alert@1>
-      \textit{Hardwares de grande escala distribuídos geograficamente e infra-estrutura de software composto de recursos heterogêneos de rede compartilhado por várias organizações administrativas que são coordenados para fornecer transparência, confiabilidade, abrangência e suporte computacional persistente para uma grande variedade de aplicações.} (Miguel et
-al , 2004)
-    \end{block}    
-    \begin{block}{Definição menos abrangente}<2- | alert@2>
+     % \begin{block}{Definição abrangente}<1-| alert@1>
+     % \textit{Hardwares de grande escala distribuídos geograficamente e infra-estrutura de software composto de recursos heterogêneos de rede compartilhado por várias organizações administrativas que são coordenados para fornecer transparência, confiabilidade, abrangência e suporte computacional persistente para uma grande variedade de aplicações.} (Miguel et
+%al , 2004)
+   % \end{block}    
+    \begin{block}{Definição}<1- | alert@2>
       \textit{Forma de computação distribuída em que um "super computador virtual", composto de um conjunto de computadores de baixo
 acoplamento interligados em rede, agindo em conjunto para realizar grandes tarefas.} (Buyya et al. 2009)
      \end{block}       
@@ -144,7 +144,7 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
       Árvore: Hierarquia Pai/Filho/Irmãos.\\
       \begin{figure}
        \centering
-       \includegraphics[scale=0.4]{imagens/hierarquia.png}
+       \includegraphics[scale=0.3]{imagens/hierarquia.png}
        \caption{Hierarquia}
       \end{figure}
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.7.17)  17 DEC 2013 09:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.1.2)  17 DEC 2013 18:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1318,7 +1318,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 
 [13
 
-] <imagens/pesquisa2.jpg, id=749, 325.215pt x 518.6878pt>
+] <imagens/pesquisa2.jpg, id=741, 325.215pt x 518.6878pt>
 File: imagens/pesquisa2.jpg Graphic file (type jpg)
 
 <use imagens/pesquisa2.jpg>
@@ -1359,7 +1359,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 
 [15
 
-] <imagens/cachehit.jpg, id=838, 398.48875pt x 353.32pt>
+] <imagens/cachehit.jpg, id=830, 398.48875pt x 353.32pt>
 File: imagens/cachehit.jpg Graphic file (type jpg)
 
 <use imagens/cachehit.jpg>
@@ -1381,14 +1381,14 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 [16
 
  <./imagens/cachehit.jpg>]
-<imagens/hierarquia.png, id=882, 217.5628pt x 161.10187pt>
+<imagens/hierarquia.png, id=874, 217.5628pt x 161.10187pt>
 File: imagens/hierarquia.png Graphic file (type png)
 
 <use imagens/hierarquia.png>
 Package pdftex.def Info: imagens/hierarquia.png used on input line 159.
 (pdftex.def)             Requested size: 65.26933pt x 48.33093pt.
 
-<imagens/mesh.png, id=883, 253.69781pt x 225.09094pt>
+<imagens/mesh.png, id=875, 253.69781pt x 225.09094pt>
 File: imagens/mesh.png Graphic file (type png)
  <use imagens/mesh.png>
 Package pdftex.def Info: imagens/mesh.png used on input line 159.
@@ -1493,7 +1493,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 
 [22
 
-] <imagens/arquiteturanuvem.png, id=1149, 743.77875pt x 413.29407pt>
+] <imagens/arquiteturanuvem.png, id=1141, 743.77875pt x 413.29407pt>
 File: imagens/arquiteturanuvem.png Graphic file (type png)
 
 <use imagens/arquiteturanuvem.png>
@@ -1562,7 +1562,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 
 [25
 
-] <imagens/webpolygraph.jpg, id=1286, 200.75pt x 167.62625pt>
+] <imagens/webpolygraph.jpg, id=1278, 200.75pt x 167.62625pt>
 File: imagens/webpolygraph.jpg Graphic file (type jpg)
 
 <use imagens/webpolygraph.jpg>
@@ -1584,7 +1584,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 [26
 
  <./imagens/webpolygraph.jpg>]
-<imagens/simulador.jpg, id=1332, 1192.455pt x 520.94624pt>
+<imagens/simulador.jpg, id=1323, 1192.455pt x 520.94624pt>
 File: imagens/simulador.jpg Graphic file (type jpg)
 
 <use imagens/simulador.jpg>
@@ -1606,7 +1606,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 [27
 
  <./imagens/simulador.jpg>]
-<imagens/meshhierarquico.png, id=1376, 640.3925pt x 480.79625pt>
+<imagens/meshhierarquico.png, id=1368, 640.3925pt x 480.79625pt>
 File: imagens/meshhierarquico.png Graphic file (type png)
 
 <use imagens/meshhierarquico.png>
@@ -1632,7 +1632,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 [28
 
  <./imagens/meshhierarquico.png>]
-<imagens/protocolos.png, id=1422, 642.4pt x 481.8pt>
+<imagens/protocolos.png, id=1414, 642.4pt x 481.8pt>
 File: imagens/protocolos.png Graphic file (type png)
 
 <use imagens/protocolos.png>
@@ -1658,7 +1658,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 [29
 
  <./imagens/protocolos.png>]
-<imagens/grafico_openvz.png, id=1469, 642.4pt x 481.8pt>
+<imagens/grafico_openvz.png, id=1461, 642.4pt x 481.8pt>
 File: imagens/grafico_openvz.png Graphic file (type png)
 
 <use imagens/grafico_openvz.png>
@@ -1684,7 +1684,7 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 [30
 
  <./imagens/grafico_openvz.png>]
-<imagens/kvm.png, id=1514, 642.4pt x 481.8pt>
+<imagens/kvm.png, id=1506, 642.4pt x 481.8pt>
 File: imagens/kvm.png Graphic file (type png)
  <use imagens/kvm.png>
 Package pdftex.def Info: imagens/kvm.png used on input line 300.
@@ -1749,10 +1749,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
  ) 
 Here is how much of TeX's memory you used:
- 16220 strings out of 495059
- 299485 string characters out of 3182030
- 394882 words of memory out of 3000000
- 18904 multiletter control sequences out of 15000+200000
+ 16203 strings out of 495059
+ 298878 string characters out of 3182031
+ 387707 words of memory out of 3000000
+ 18887 multiletter control sequences out of 15000+200000
  11469 words of font info for 42 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  49i,20n,62p,430b,744s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1764,10 +1764,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmssi8.pfb>
-Output written on apresentação.pdf (32 pages, 591867 bytes).
+Output written on apresentação.pdf (32 pages, 591208 bytes).
 PDF statistics:
- 1652 PDF objects out of 1728 (max. 8388607)
- 1537 compressed objects within 16 object streams
+ 1644 PDF objects out of 1728 (max. 8388607)
+ 1533 compressed objects within 16 object streams
  83 named destinations out of 1000 (max. 500000)
- 320 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 296 words of extra memory for PDF output out of 10000 (max. 10000000)
 
