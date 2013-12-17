@@ -14,7 +14,7 @@
 % Informações gerais da apresentação
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \title[TCC]{Implantação e Análise de serviço Web Proxy Cache em Infraestruturas de Computação na Nuvem}
-\author{Luís Eduardo Tenório Silva\\\textit{lets@cin.ufpe.br}}
+\author{Luís Eduardo Tenório Silva\\\textit{lets@cin.ufpe.br}\\Orientador: Almir Pereira Guimarães\\\textit{almirguimaraes@yahoo.com.br}}
 \date[18/12/13]{18 de Dezembro de 2013}
 \logo{
     \includegraphics[height=1cm,keepaspectratio]{imagens/ufal.jpg}
@@ -48,7 +48,7 @@
 %   Título do trabalho
     \frame{\titlepage}
 
-    \frame{\tableofcontents}
+    \frame{\footnotesize{\tableofcontents}}
 %   1- Definição de computação em nuvem
     \section{Computação em nuvem}
     \setbeamercovered{transparent}
@@ -129,6 +129,13 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
       \frametitle{Cache hit e Cache miss}
       Cache Hit: Quando o objeto solicitado for encontrado no cache.
       Cache Miss: Quando o objeto não é encontrado no cache.
+
+      \begin{figure}
+       \centering
+       \includegraphics[scale=0.4]{imagens/cachehit.jpg}
+       \caption{Cache hit e Cache miss}
+      \end{figure}
+
     \end{frame}
 
    \subsection{Arquiteturas}
@@ -200,9 +207,46 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
       \includegraphics[scale=0.4]{imagens/arquiteturanuvem.png}
       \caption{Arquitetura da nuvem}
      \end{figure}
-
     \end{frame}
 
+    \begin{frame}
+     \frametitle{Problemática}     
+     Qual deve ser a configuração do serviço para que apresente o melhor resultado possível?\\
+     \textcolor{green}{Depende das métricas que estão sendo observadas}
+    \begin{itemize}
+     \item \textbf{Taxa de acerto:} ${Cache Hit\over(Cache Hit + Cache Miss)}$
+     \item Largura de banda: Banda passante economizada
+    \end{itemize}
+    \end{frame}
+
+    \begin{frame}
+      \frametitle{Resposta}
+      \huge{Uso de simulação de tráfego de alta recorrência.(Tráfego mais próximo de um ambiente real)}
+    \end{frame}
+
+    \section{Simulação}
+    \begin{frame}
+     \frametitle{Simulação}
+      Uso do WebPolygraph para simulação de tráfego.
+      \begin{itemize}
+       \item Uso de 75\% de recorrência (Alta recorrência).
+       \item Uso de distribuição de probabilidade para simulação do tráfego e tamanho dos objetos (Pareto e Zipf).       
+      \end{itemize}
+
+      \begin{figure}
+       \centering
+       \includegraphics[scale=0.5]{imagens/webpolygraph.jpg}
+       \caption{WebPolygraph}
+      \end{figure}
+    \end{frame}
+
+    \begin{frame}
+     \begin{figure}
+      \centering
+      \includegraphics[scale=0.2]{imagens/simulador.jpg}
+      \caption{Arquitetura na nuvem com simulador}
+     \end{figure}
+    \end{frame}
 
 %    Resultados
     \section{Resultados}
@@ -238,7 +282,7 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
       \begin{figure}
       \centering
       \includegraphics[scale=0.4]{imagens/kvm.png}
-      \caption{Resultado OpenVZ}
+      \caption{Resultado KVM}
       \end{figure}
     \end{frame}
 

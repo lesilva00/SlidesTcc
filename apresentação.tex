@@ -14,7 +14,7 @@
 % Informações gerais da apresentação
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \title[TCC]{Implantação e Análise de serviço Web Proxy Cache em Infraestruturas de Computação na Nuvem}
-\author{Luís Eduardo Tenório Silva\\\textit{lets@cin.ufpe.br}}
+\author{Luís Eduardo Tenório Silva\\\textit{lets@cin.ufpe.br}\\Orientador: Almir Pereira Guimarães\\\textit{almirguimaraes@yahoo.com.br}}
 \date[18/12/13]{18 de Dezembro de 2013}
 \logo{
     \includegraphics[height=1cm,keepaspectratio]{imagens/ufal.jpg}
@@ -129,13 +129,33 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
       \frametitle{Cache hit e Cache miss}
       Cache Hit: Quando o objeto solicitado for encontrado no cache.
       Cache Miss: Quando o objeto não é encontrado no cache.
+
+      \begin{figure}
+       \centering
+       \includegraphics[scale=0.4]{imagens/cachehit.jpg}
+       \caption{Cache hit e Cache miss}
+      \end{figure}
+
     \end{frame}
 
    \subsection{Arquiteturas}
     \begin{frame}
       \frametitle{Arquiteturas}
       Árvore: Hierarquia Pai/Filho/Irmãos.\\
+      \begin{figure}
+       \centering
+       \includegraphics[scale=0.3]{imagens/hierarquia.png}
+       \caption{Hierarquia}
+      \end{figure}
+
       Malha: Abolição de hierarquias.
+
+      \begin{figure}
+       \centering
+       \includegraphics[scale=0.3]{imagens/mesh.png}
+       \caption{Malha}
+      \end{figure}
+  
     \end{frame}
 
     \subsection{Protocolos Inter-cache}
