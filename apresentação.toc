@@ -1,19 +1,18 @@
 \beamer@endinputifotherversion {3.10pt}
-\beamer@sectionintoc {1}{Computa\IeC {\c c}\IeC {\~a}o em nuvem}{3}{0}{1}
+\beamer@sectionintoc {1}{Computa\IeC {\c c}\IeC {\~a}o na nuvem}{3}{0}{1}
 \beamer@sectionintoc {2}{Motiva\IeC {\c c}\IeC {\~a}o (Computa\IeC {\c c}\IeC {\~a}o em nuvem)}{5}{0}{2}
 \beamer@sectionintoc {3}{Web Proxy Cache}{9}{0}{3}
 \beamer@sectionintoc {4}{Motiva\IeC {\c c}\IeC {\~a}o (Web Proxy Cache)}{10}{0}{4}
-\beamer@sectionintoc {5}{Computa\IeC {\c c}\IeC {\~a}o em nuvem + Web Proxy Cache}{14}{0}{5}
+\beamer@sectionintoc {5}{Computa\IeC {\c c}\IeC {\~a}o na nuvem + Web Proxy Cache}{14}{0}{5}
 \beamer@sectionintoc {6}{Problem\IeC {\'a}tica}{15}{0}{6}
 \beamer@sectionintoc {7}{Proxy Cache}{16}{0}{7}
 \beamer@subsectionintoc {7}{1}{Cache hit e Cache miss}{16}{0}{7}
 \beamer@subsectionintoc {7}{2}{Arquiteturas}{17}{0}{7}
 \beamer@subsectionintoc {7}{3}{Protocolos Inter-cache}{18}{0}{7}
-\beamer@sectionintoc {8}{Computa\IeC {\c c}\IeC {\~a}o em nuvem}{19}{0}{8}
-\beamer@subsectionintoc {8}{1}{Caracter\IeC {\'\i }sticas}{19}{0}{8}
-\beamer@subsectionintoc {8}{2}{Categorias}{20}{0}{8}
-\beamer@subsectionintoc {8}{3}{Virtualiza\IeC {\c c}\IeC {\~a}o}{21}{0}{8}
-\beamer@sectionintoc {9}{Arquitetura}{23}{0}{9}
-\beamer@sectionintoc {10}{Simula\IeC {\c c}\IeC {\~a}o}{26}{0}{10}
-\beamer@sectionintoc {11}{Resultados}{28}{0}{11}
-\beamer@sectionintoc {12}{Considera\IeC {\c c}\IeC {\~o}es Finais}{32}{0}{12}
+\beamer@sectionintoc {8}{Computa\IeC {\c c}\IeC {\~a}o na nuvem}{19}{0}{8}
+\beamer@subsectionintoc {8}{1}{Categorias}{19}{0}{8}
+\beamer@subsectionintoc {8}{2}{Virtualiza\IeC {\c c}\IeC {\~a}o}{20}{0}{8}
+\beamer@sectionintoc {9}{Arquitetura}{22}{0}{9}
+\beamer@sectionintoc {10}{Simula\IeC {\c c}\IeC {\~a}o}{25}{0}{10}
+\beamer@sectionintoc {11}{Resultados}{27}{0}{11}
+\beamer@sectionintoc {12}{Considera\IeC {\c c}\IeC {\~o}es Finais}{31}{0}{12}

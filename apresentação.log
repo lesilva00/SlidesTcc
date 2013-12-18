@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.1.2)  17 DEC 2013 18:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.1.2)  17 DEC 2013 21:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1099,28 +1099,28 @@ Dictionary: translator-theorem-dictionary, Language: English
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 47.
  (./apresentação.nav)
-Overfull \hbox (389.73853pt too wide) detected at line 47
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) detected at line 47
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 49.
 
-<imagens/ufal.jpg, id=108, 189.70876pt x 268.00125pt>
+<imagens/ufal.jpg, id=103, 189.70876pt x 268.00125pt>
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
 Package pdftex.def Info: imagens/ufal.jpg used on input line 49.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 
-<imagens/comp.png, id=109, 200.75pt x 101.37875pt>
+<imagens/comp.png, id=104, 200.75pt x 101.37875pt>
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
 Package pdftex.def Info: imagens/comp.png used on input line 49.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
@@ -1136,8 +1136,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 51.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [2
@@ -1152,8 +1152,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 65.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [3
@@ -1168,8 +1168,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 65.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [4
@@ -1184,8 +1184,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 77.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [5
@@ -1200,8 +1200,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 77.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [6
@@ -1216,8 +1216,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 77.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [7
@@ -1232,8 +1232,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 77.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [8
@@ -1248,8 +1248,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 86.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [9
@@ -1264,8 +1264,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 97.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [10
@@ -1280,8 +1280,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 97.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [11
@@ -1296,8 +1296,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 97.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [12
@@ -1312,20 +1312,20 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 97.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [13
 
-] <imagens/pesquisa2.jpg, id=741, 325.215pt x 518.6878pt>
+] <imagens/pesquisa2.jpg, id=721, 325.215pt x 518.6878pt>
 File: imagens/pesquisa2.jpg Graphic file (type jpg)
 
 <use imagens/pesquisa2.jpg>
 Package pdftex.def Info: imagens/pesquisa2.jpg used on input line 109.
 (pdftex.def)             Requested size: 130.0837pt x 207.47144pt.
 
-Overfull \vbox (50.14001pt too high) detected at line 109
+Overfull \vbox (52.26918pt too high) detected at line 109
  []
 
 File: imagens/ufal.jpg Graphic file (type jpg)
@@ -1337,8 +1337,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 109.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [14
@@ -1353,13 +1353,13 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 120.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [15
 
-] <imagens/cachehit.jpg, id=830, 398.48875pt x 353.32pt>
+] <imagens/cachehit.jpg, id=807, 398.48875pt x 353.32pt>
 File: imagens/cachehit.jpg Graphic file (type jpg)
 
 <use imagens/cachehit.jpg>
@@ -1374,21 +1374,21 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 139.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [16
 
  <./imagens/cachehit.jpg>]
-<imagens/hierarquia.png, id=874, 217.5628pt x 161.10187pt>
+<imagens/hierarquia.png, id=851, 217.5628pt x 161.10187pt>
 File: imagens/hierarquia.png Graphic file (type png)
 
 <use imagens/hierarquia.png>
 Package pdftex.def Info: imagens/hierarquia.png used on input line 159.
 (pdftex.def)             Requested size: 65.26933pt x 48.33093pt.
 
-<imagens/mesh.png, id=875, 253.69781pt x 225.09094pt>
+<imagens/mesh.png, id=852, 253.69781pt x 225.09094pt>
 File: imagens/mesh.png Graphic file (type png)
  <use imagens/mesh.png>
 Package pdftex.def Info: imagens/mesh.png used on input line 159.
@@ -1406,8 +1406,8 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 159.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [17
@@ -1415,16 +1415,16 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
  <./imagens/hierarquia.png> <./imagens/mesh.png>]
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 171.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 170.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
 
 <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 171.
+Package pdftex.def Info: imagens/comp.png used on input line 170.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [18
@@ -1432,15 +1432,15 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 ]
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 186.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 185.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 186.
+Package pdftex.def Info: imagens/comp.png used on input line 185.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [19
@@ -1448,15 +1448,15 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 ]
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 196.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 192.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 196.
+Package pdftex.def Info: imagens/comp.png used on input line 192.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [20
@@ -1464,64 +1464,48 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 ]
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 203.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 201.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 203.
+Package pdftex.def Info: imagens/comp.png used on input line 201.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [21
 
-]
+] <imagens/arquiteturanuvem.png, id=1069, 743.77875pt x 413.29407pt>
+File: imagens/arquiteturanuvem.png Graphic file (type png)
+
+<use imagens/arquiteturanuvem.png>
+Package pdftex.def Info: imagens/arquiteturanuvem.png used on input line 212.
+(pdftex.def)             Requested size: 297.50623pt x 165.31468pt.
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
 Package pdftex.def Info: imagens/ufal.jpg used on input line 212.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
- <use imagens/comp.png>
+
+<use imagens/comp.png>
 Package pdftex.def Info: imagens/comp.png used on input line 212.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [22
 
-] <imagens/arquiteturanuvem.png, id=1141, 743.77875pt x 413.29407pt>
-File: imagens/arquiteturanuvem.png Graphic file (type png)
-
-<use imagens/arquiteturanuvem.png>
-Package pdftex.def Info: imagens/arquiteturanuvem.png used on input line 223.
-(pdftex.def)             Requested size: 297.50623pt x 165.31468pt.
-File: imagens/ufal.jpg Graphic file (type jpg)
- <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 223.
-(pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
-File: imagens/comp.png Graphic file (type png)
-
-<use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 223.
-(pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
-
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
- []
-
-[23
-
  <./imagens/arquiteturanuvem.png>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 233.
+LaTeX Font Info:    Try loading font information for U+msa on input line 222.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 233.
+LaTeX Font Info:    Try loading font information for U+msb on input line 222.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -1529,69 +1513,95 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 233.
+(amsmath)                 on input line 222.
 
 File: imagens/ufal.jpg Graphic file (type jpg)
 <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 233.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 222.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 233.
+Package pdftex.def Info: imagens/comp.png used on input line 222.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
-[24
+[23
 
 ]
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 238.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 227.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 238.
+Package pdftex.def Info: imagens/comp.png used on input line 227.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
+ []
+
+[24
+
+] <imagens/webpolygraph.jpg, id=1202, 200.75pt x 167.62625pt>
+File: imagens/webpolygraph.jpg Graphic file (type jpg)
+
+<use imagens/webpolygraph.jpg>
+Package pdftex.def Info: imagens/webpolygraph.jpg used on input line 243.
+(pdftex.def)             Requested size: 100.37474pt x 83.81291pt.
+File: imagens/ufal.jpg Graphic file (type jpg)
+ <use imagens/ufal.jpg>
+Package pdftex.def Info: imagens/ufal.jpg used on input line 243.
+(pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
+File: imagens/comp.png Graphic file (type png)
+ <use imagens/comp.png>
+Package pdftex.def Info: imagens/comp.png used on input line 243.
+(pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
+
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [25
 
-] <imagens/webpolygraph.jpg, id=1278, 200.75pt x 167.62625pt>
-File: imagens/webpolygraph.jpg Graphic file (type jpg)
+ <./imagens/webpolygraph.jpg>]
+<imagens/simulador.jpg, id=1248, 1192.455pt x 520.94624pt>
+File: imagens/simulador.jpg Graphic file (type jpg)
 
-<use imagens/webpolygraph.jpg>
-Package pdftex.def Info: imagens/webpolygraph.jpg used on input line 254.
-(pdftex.def)             Requested size: 100.37474pt x 83.81291pt.
+<use imagens/simulador.jpg>
+Package pdftex.def Info: imagens/simulador.jpg used on input line 251.
+(pdftex.def)             Requested size: 238.48677pt x 104.1874pt.
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 254.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 251.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 254.
+Package pdftex.def Info: imagens/comp.png used on input line 251.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [26
 
- <./imagens/webpolygraph.jpg>]
-<imagens/simulador.jpg, id=1323, 1192.455pt x 520.94624pt>
-File: imagens/simulador.jpg Graphic file (type jpg)
+ <./imagens/simulador.jpg>]
+<imagens/meshhierarquico.png, id=1291, 640.3925pt x 480.79625pt>
+File: imagens/meshhierarquico.png Graphic file (type png)
 
-<use imagens/simulador.jpg>
-Package pdftex.def Info: imagens/simulador.jpg used on input line 262.
-(pdftex.def)             Requested size: 238.48677pt x 104.1874pt.
+<use imagens/meshhierarquico.png>
+Package pdftex.def Info: imagens/meshhierarquico.png used on input line 262.
+(pdftex.def)             Requested size: 256.15245pt x 192.31508pt.
+
+Overfull \vbox (8.3392pt too high) detected at line 262
+ []
+
 File: imagens/ufal.jpg Graphic file (type jpg)
- <use imagens/ufal.jpg>
+<use imagens/ufal.jpg>
 Package pdftex.def Info: imagens/ufal.jpg used on input line 262.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
@@ -1599,130 +1609,104 @@ File: imagens/comp.png Graphic file (type png)
 Package pdftex.def Info: imagens/comp.png used on input line 262.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [27
 
- <./imagens/simulador.jpg>]
-<imagens/meshhierarquico.png, id=1368, 640.3925pt x 480.79625pt>
-File: imagens/meshhierarquico.png Graphic file (type png)
+ <./imagens/meshhierarquico.png>]
+<imagens/protocolos.png, id=1337, 642.4pt x 481.8pt>
+File: imagens/protocolos.png Graphic file (type png)
 
-<use imagens/meshhierarquico.png>
-Package pdftex.def Info: imagens/meshhierarquico.png used on input line 273.
-(pdftex.def)             Requested size: 256.15245pt x 192.31508pt.
+<use imagens/protocolos.png>
+Package pdftex.def Info: imagens/protocolos.png used on input line 271.
+(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
 
-Overfull \vbox (7.78365pt too high) detected at line 273
+Overfull \vbox (8.18515pt too high) detected at line 271
  []
 
 File: imagens/ufal.jpg Graphic file (type jpg)
 <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 273.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 271.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 273.
+Package pdftex.def Info: imagens/comp.png used on input line 271.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [28
 
- <./imagens/meshhierarquico.png>]
-<imagens/protocolos.png, id=1414, 642.4pt x 481.8pt>
-File: imagens/protocolos.png Graphic file (type png)
+ <./imagens/protocolos.png>]
+<imagens/grafico_openvz.png, id=1382, 642.4pt x 481.8pt>
+File: imagens/grafico_openvz.png Graphic file (type png)
 
-<use imagens/protocolos.png>
-Package pdftex.def Info: imagens/protocolos.png used on input line 282.
+<use imagens/grafico_openvz.png>
+Package pdftex.def Info: imagens/grafico_openvz.png used on input line 280.
 (pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
 
-Overfull \vbox (8.18515pt too high) detected at line 282
+Overfull \vbox (8.18515pt too high) detected at line 280
  []
 
 File: imagens/ufal.jpg Graphic file (type jpg)
 <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 282.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 280.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 282.
+Package pdftex.def Info: imagens/comp.png used on input line 280.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [29
 
- <./imagens/protocolos.png>]
-<imagens/grafico_openvz.png, id=1461, 642.4pt x 481.8pt>
-File: imagens/grafico_openvz.png Graphic file (type png)
-
-<use imagens/grafico_openvz.png>
-Package pdftex.def Info: imagens/grafico_openvz.png used on input line 291.
+ <./imagens/grafico_openvz.png>]
+<imagens/kvm.png, id=1426, 642.4pt x 481.8pt>
+File: imagens/kvm.png Graphic file (type png)
+ <use imagens/kvm.png>
+Package pdftex.def Info: imagens/kvm.png used on input line 289.
 (pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
 
-Overfull \vbox (8.18515pt too high) detected at line 291
+Overfull \vbox (8.18515pt too high) detected at line 289
  []
 
 File: imagens/ufal.jpg Graphic file (type jpg)
 <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 291.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 289.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 291.
+Package pdftex.def Info: imagens/comp.png used on input line 289.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
 [30
 
- <./imagens/grafico_openvz.png>]
-<imagens/kvm.png, id=1506, 642.4pt x 481.8pt>
-File: imagens/kvm.png Graphic file (type png)
- <use imagens/kvm.png>
-Package pdftex.def Info: imagens/kvm.png used on input line 300.
-(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
-
-Overfull \vbox (8.18515pt too high) detected at line 300
- []
-
-File: imagens/ufal.jpg Graphic file (type jpg)
-<use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 300.
-(pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
-File: imagens/comp.png Graphic file (type png)
- <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 300.
-(pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
-
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
- []
-
-[31
-
  <./imagens/kvm.png>]
 File: imagens/ufal.jpg Graphic file (type jpg)
  <use imagens/ufal.jpg>
-Package pdftex.def Info: imagens/ufal.jpg used on input line 306.
+Package pdftex.def Info: imagens/ufal.jpg used on input line 295.
 (pdftex.def)             Requested size: 20.13855pt x 28.45274pt.
 File: imagens/comp.png Graphic file (type png)
  <use imagens/comp.png>
-Package pdftex.def Info: imagens/comp.png used on input line 306.
+Package pdftex.def Info: imagens/comp.png used on input line 295.
 (pdftex.def)             Requested size: 56.34132pt x 28.45274pt.
 
-Overfull \hbox (389.73853pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [][][][] [][][][][] [] [] [] []  
+Overfull \hbox (385.11342pt too wide) has occurred while \output is active
+  [] [] [] [] [] [] [] [][][][] [][][][] [] [] [] []  
  []
 
-[32
+[31
 
 ]
 \tf@nav=\write6
@@ -1734,25 +1718,25 @@ Overfull \hbox (389.73853pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `apresentação.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
  (./apresentação.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 308.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 308.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
 Package rerunfilecheck Info: File `apresentação.out' has not changed.
-(rerunfilecheck)             Checksum: 253B8E660E465CF3A2DF65C249E9F777;1111.
+(rerunfilecheck)             Checksum: 45111CE4011151CCF3B2D16235899D7C;1042.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 297.
  ) 
 Here is how much of TeX's memory you used:
- 16203 strings out of 495059
- 298878 string characters out of 3182031
- 387707 words of memory out of 3000000
- 18887 multiletter control sequences out of 15000+200000
+ 16195 strings out of 495059
+ 298791 string characters out of 3182031
+ 385993 words of memory out of 3000000
+ 18882 multiletter control sequences out of 15000+200000
  11469 words of font info for 42 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  49i,20n,62p,430b,744s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1764,10 +1748,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmssi8.pfb>
-Output written on apresentação.pdf (32 pages, 591208 bytes).
+Output written on apresentação.pdf (31 pages, 588300 bytes).
 PDF statistics:
- 1644 PDF objects out of 1728 (max. 8388607)
- 1533 compressed objects within 16 object streams
- 83 named destinations out of 1000 (max. 500000)
- 296 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1562 PDF objects out of 1728 (max. 8388607)
+ 1454 compressed objects within 15 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
 
