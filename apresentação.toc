@@ -16,3 +16,4 @@
 \beamer@sectionintoc {10}{Simula\IeC {\c c}\IeC {\~a}o}{25}{0}{10}
 \beamer@sectionintoc {11}{Resultados}{27}{0}{11}
 \beamer@sectionintoc {12}{Considera\IeC {\c c}\IeC {\~o}es Finais}{31}{0}{12}
+\beamer@sectionintoc {13}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{33}{0}{13}

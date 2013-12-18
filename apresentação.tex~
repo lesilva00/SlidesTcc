@@ -237,7 +237,7 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
 
       \begin{figure}
        \centering
-       \includegraphics{imagens/web.png}
+       \includegraphics[scale=0.5]{imagens/webpolygraph.jpg}
        \caption{WebPolygraph}
       \end{figure}
     \end{frame}
@@ -310,6 +310,13 @@ confiável de clientes da rede local.} (Elvis Pontes 2010)
      \centering
      \huge{Dúvidas???}
     \end{frame}
-
-
+    
+    \section{Referências Bibliográficas}
+    \begin{frame}
+    \textit{Buyya, R., Yeo, C. S., Venugopal, S., Broberg, J. \& Brandic, I. (2009), `Cloud computing and emerging it platforms: Vision, hype, and reality for delivering computing as the 5th utility', Future Generation computer systems 25(6), 599-616.\\}
+    \textit{Pontes, E. (2008), `Virtualização: da teoria a soluções', Minicursos do Simpósio Brasileiro de Redes de Computadores-SBRC 2008, 173-207.\\}
+    \textit{Hadjiefthymiades, S. \& Merakos, L. (2001), Using proxy cache relocation to accelerate web browsing in wireless/mobile communications, in `Proceedings of the 10th international conference on World Wide Web', ACM, pp. 26-35.\\}
+    \textit{Kolyshkin, K. (2006), `Virtualization in linux', White paper, OpenVZ .\\}
+    \textit{Laszlo Pinto, Marcio Cesario, M. M. (1997), `Cache: Melhor aproveitamento dos recursos na internet', Rede Nacional de Ensino e Pesquisa 1.}
+    \end{frame}
 \end{document}
